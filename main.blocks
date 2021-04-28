@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="xRRgvHNlG#rZ^u`HECiY" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="pDeEE4in#{[r73O03LpY">mySprite</variable><variable type="KIND_SpriteKind" id="[(0NCbAGzxhr2y~lMrO:">Player</variable><variable type="KIND_SpriteKind" id="SPFY,qYxpLQK,RXNLj*`">Projectile</variable><variable type="KIND_SpriteKind" id="3Td9pwe`]nd/T%VuNtsm">Food</variable><variable type="KIND_SpriteKind" id="]K@OOdh2;ur]*bG`S;E8">Enemy</variable></variables><block type="variables_set" id="6F;uVESro9`^P!{0(k-O" disabled="true" x="170" y="-150"><field name="VAR" id="pDeEE4in#{[r73O03LpY">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id=")cX_LHxwI`ffZP_@K#_$" disabled="true"><value name="img"><shadow type="screen_image_picker" id="@l_=6pLBd#nm[zQ+cB5]" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"@l_=6pLBd#nm[zQ+cB5]"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="K16oF3[aUUqw/k+he-lP" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block><block type="pxt-on-start" id="xRRgvHNlG#rZ^u`HECiY" x="0" y="0"><statement name="HANDLER"><block type="tilemap_editor" id="{VB-X@h2G$GUdgKrBy(M"><field name="tilemap">tilemap`level1`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level1"}}</data></block></statement></block></xml>
